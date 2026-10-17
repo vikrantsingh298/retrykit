@@ -18,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vikrantsingh298/retrykit"
+    "url": "git+https://github.com/vikrantsingh298/retrykit.git"
   },
   "homepage": "https://github.com/vikrantsingh298/retrykit#readme",
   "bugs": {
@@ -62,4 +62,3 @@
     "vitest": "^3.0.0"
   }
 }
-

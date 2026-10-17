@@ -18,11 +18,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/retrykit"
+    "url": "https://github.com/vikrantsingh298/retrykit"
   },
-  "homepage": "https://github.com/YOUR_USERNAME/retrykit#readme",
+  "homepage": "https://github.com/vikrantsingh298/retrykit#readme",
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/retrykit/issues"
+    "url": "https://github.com/vikrantsingh298/retrykit/issues"
   },
   "type": "module",
   "main": "./dist/index.cjs",

@@ -1,5 +1,5 @@
 {
-  "name": "retrykit",
+  "name": "@vikrantsingh298/retrykit",
   "version": "1.0.0",
   "description": "Zero-dependency, TypeScript-first async retry & resilience toolkit. Works on Node.js, Bun, Deno, and Edge runtimes.",
   "keywords": [

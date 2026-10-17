@@ -22,17 +22,17 @@
 ## Installation
 
 ```sh
-npm install retrykit
+npm install @vikrantsingh298/retrykit
 # or
-pnpm add retrykit
+pnpm add @vikrantsingh298/retrykit
 # or
-bun add retrykit
+bun add @vikrantsingh298/retrykit
 ```
 
 ## Quick Start
 
 ```ts
-import { retry, retryIf, timeout, withFallback } from "retrykit";
+import { retry, retryIf, timeout, withFallback } from "@vikrantsingh298/retrykit";
 
 // Retry any async function with exponential back-off
 const data = await retry(() => fetch("https://api.example.com/data").then(r => r.json()), {
